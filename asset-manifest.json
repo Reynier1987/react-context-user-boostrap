@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-context-user-boostrap/static/css/main.85768c17.css",
+    "main.js": "/react-context-user-boostrap/static/js/main.e5517254.js",
+    "index.html": "/react-context-user-boostrap/index.html",
+    "main.85768c17.css.map": "/react-context-user-boostrap/static/css/main.85768c17.css.map",
+    "main.e5517254.js.map": "/react-context-user-boostrap/static/js/main.e5517254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.e5517254.js"
+  ]
+}
